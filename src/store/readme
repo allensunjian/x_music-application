@@ -1,0 +1,7 @@
+store 文件夹来存放vuex 代码
+index.js 是vuex 的入口
+state.js 管理状态
+mutations.js
+mutation-types.js 存储mutattion相关的字符串敞亮
+actions.js 异步操作、异步修改// 对mutation封装
+getters.js 获取  state 对state 映射
